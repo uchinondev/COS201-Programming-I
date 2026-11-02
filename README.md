@@ -67,7 +67,7 @@ java SimpleCalculator
 6. Submit your actual GitHub repository URL using the lecturer's submission form.
 
 ## Author
-- Name: Replace with your name
+- Name: chinoso uba franklin
 - Programme: Computer Science
 - Course: COS 201
 - Level: 200
